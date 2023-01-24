@@ -1,0 +1,9 @@
+//biblioteca NPM 
+// params - requisião do http
+// body - corpo da requisição 
+
+tipos de erros no servidor
+//tipos de erros
+            //200 - ok
+            //500 - erro de sintax e codigo interno do server
+            //400 - not found 
